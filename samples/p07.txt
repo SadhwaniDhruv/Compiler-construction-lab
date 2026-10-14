@@ -1,0 +1,4 @@
+This line ends with COM
+This line ends with com
+COM is at the start only
+Another match.COM

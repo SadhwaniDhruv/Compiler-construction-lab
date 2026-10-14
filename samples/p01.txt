@@ -1,0 +1,3 @@
+int total = 12;
+/* block comment ignored */
+if (total >= 10) return total;

@@ -1,0 +1,3 @@
+10 apples
+value=255
+0
